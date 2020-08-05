@@ -1,1 +1,1 @@
-<!DOCtype=HTML5>
+<!DOCTYPE=HTML>
